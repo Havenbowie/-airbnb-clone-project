@@ -1,6 +1,7 @@
 # -airbnb-clone-project
 The Airbnb Clone Project builds full-stack skills by simulating a real booking platform. Learners design databases, create secure APIs, implement features like listings and bookings, and use CD pipelines. It emphasizes scalability, teamwork, and Agile workflows, preparing learners for real-world software development.
-Team Roles
+<details>
+<summary>Team Roles</summary>
   Backend Developer:
 Builds server logic, APIs, and handles data processing and business logic.
   Database Administrator (DBA):
@@ -17,4 +18,4 @@ Coordinates the team, tracks progress, and ensures the project stays on schedule
 Tests features to find bugs and ensure quality across the application.
   GitHub Repository Manager:
 Organizes the project repository, enforces coding standards, and manages branches.
-
+</details>
